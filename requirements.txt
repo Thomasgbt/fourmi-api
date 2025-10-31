@@ -1,9 +1,10 @@
 fastapi
 uvicorn
 gunicorn
-pandas
 torch
 torchvision
-shapely
+pandas
 pillow
+shapely
+python-multipart
 
