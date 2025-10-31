@@ -1,8 +1,9 @@
-fastapi==0.111.1
-uvicorn[standard]==0.24.0
-torch==2.3.1
-torchvision==0.18.1
-pandas==2.1.1
-Pillow==10.1.0
-shapely==2.1.1
+fastapi
+uvicorn
+gunicorn
+pandas
+torch
+torchvision
+shapely
+pillow
 
